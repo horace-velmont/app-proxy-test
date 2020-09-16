@@ -6,10 +6,6 @@
     "type": "git",
     "url": "git://github.com/dylanahsmith/app-proxy-test.git"
   },
-  "engines": {
-    "node": "~0.8.21",
-    "npm": "~1.2.11"
-  },
   "dependencies": {
     "connect": "2.4.6"
   },
